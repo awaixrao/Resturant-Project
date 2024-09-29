@@ -1,0 +1,135 @@
+body {
+    overflow-x: hidden;
+}
+
+.navbar-brand {
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+    font-size: 32px;
+    color: #ffffff;
+}
+
+
+
+
+.hero {
+    height: 87vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.heroHeading {
+    font-family: 'Dancing Script', cursive;
+    padding-top: 100px;
+}
+
+
+.Twocards {
+    background-color: #222831;
+}
+
+.divImg {
+    border-radius: 5px;
+    border-color: #ffbe33;
+}
+
+.text-div {
+    font-family: 'Dancing Script', cursive;
+}
+
+
+
+
+
+.categoriesHeading {
+    font-family: 'Dancing Script', cursive;
+}
+
+.FourCardImg {
+    background: #f1f2f3;
+}
+
+.FourCardBody {
+    background-color: #222831;
+    padding: 25px;
+}
+
+.FourCardTitle {
+    font-family: 'Dancing Script', cursive;
+}
+
+
+
+
+
+.about {
+    background-color: #222831;
+}
+
+.about-heading {
+    font-family: 'Dancing Script', cursive;
+}
+
+.about-div {
+    height: 110vh;
+}
+
+
+
+
+
+
+.review-div {
+    border: #ffbe33;
+    border-style: solid;
+    border-width: 2px;
+}
+
+.review-heading {
+    color: #222831;
+    font-family: 'Dancing Script', cursive;
+}
+
+.ri-star-s-fill {
+    color: #ffbe33;
+}
+
+
+/* Product Detail*/
+
+
+
+.product-detail-card {
+    border: #ffbe33;
+    border-style: solid;
+    border-width: 2px;
+}
+
+.card-4 {
+    background: #f1f2f3;
+}
+
+.card-8 {
+    background-color: #222831;
+}
+
+
+
+.footer {
+    background-color: #222831;
+}
+
+.footer-heading {
+    font-family: 'Dancing Script', cursive;
+}
+
+.footer-social {
+    background-color: white;
+    padding: 10px;
+    border-radius: 50%;
+}
+
+.social-link {
+    color: #222831;
+}
