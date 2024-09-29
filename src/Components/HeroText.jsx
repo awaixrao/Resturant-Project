@@ -9,7 +9,9 @@ const HeroText = () => {
                 <div className="col-md-6">
 
                     <h1 className='heroHeading text-white'>Fast Food Restaurant</h1>
-                    <p className='text-white py-2'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi, officia corporis! Repellendus nostrum ab vitae ullam nisi sunt officia veritatis eum, nesciunt ducimus repellat. Nisi nostrum ea cupiditate illum ipsum.</p>
+                    <p className='text-white py-2'>
+  Welcome to Aman Pizza Garden Duniyapur, where flavor meets freshness! Our fast food point offers a delightful array of pizzas made with the finest ingredients, ensuring every bite is a taste sensation. 
+</p>
                     <ButtonOrder />
 
                 </div>
